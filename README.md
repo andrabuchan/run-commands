@@ -3,6 +3,7 @@ vcontact2 --raw-proteins [.faa file] --proteins-fp MAVERICLab-vcontact2-c0413a6c
 
 ## checkv (checks the completeness and quality of viral genomes)
 export CHECKVDB=[path to checkv database file]
+
 checkv end_to_end [viral .fna file] [output dir] 
 
 ## genomad (Identifies viruses in sequence data)
